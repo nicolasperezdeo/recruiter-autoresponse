@@ -35,6 +35,19 @@ It does however mean that I don't have the time to hop on a call with everyone w
 I very much appreciate the fact that you already disclosed the salary and other important details.
 
 But unfortunately I’m not interested in the position at the moment.
+
+Thanks again for reaching out and let's keep in touch!
+
+Best,
+Albert.
+```
+
+## The autoresponse follow-up after details sent - Not interested 
+
+```
+I very much appreciate the fact that you sent the requested details.
+
+But unfortunately I’m not interested in the position at the moment.
 Thanks again for reaching out and let's keep in touch!
 
 Best,
