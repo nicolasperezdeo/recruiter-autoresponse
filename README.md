@@ -8,21 +8,21 @@ If you like it, please consider leaving a github star.  I think that it would be
 ## the autoresponse
 
 ```
-Thanks so much for reaching out. I'm always interested in hearing about what new and exciting opportunities are out there. As a software engineer I'm sure you can imagine that I get a very high volume of recruiters reaching out on LinkedIn. It is a wonderful position of privilege to be in and I'm thankful for it.
+Thanks so much for reaching out. I'm always interested in hearing about what new and exciting opportunities are out there. As a software engineer, I'm sure you can imagine that I get a very high volume of recruiters reaching out on LinkedIn. It is a wonderful position of privilege to be in and I'm thankful for it.
 
 It does however mean that I don't have the time to hop on a call with everyone who reaches out. A lot of the time, incoming messages represent a very poor fit indeed.
 
 I would love to continue the conversation, but before I do, I'd like to level set around the level of seniority that you're looking for. 
 
-Can you send along the company name, a job description and, total compensation details for the role you're reaching out in reference to? 
+Can you send along with the company name, a job description, and, total compensation details for the role you're reaching out in reference to? 
 
-While I very much appreciate the fact that exceptionally talented and engaged recruiters reach out consistently, sorting serious and high quality opportunities from spam would be a full time job without an autoresponder.
+While I very much appreciate the fact that exceptionally talented and engaged recruiters reach out consistently, sorting serious and high-quality opportunities from spam would be a full-time job without an autoresponder.
 
 In the absence of detailed information regarding the nature of the opportunity in question, I will be unavailable for further discussion.
 Thanks again for reaching out!
  
 I look forward to hearing from you.
-Albert
+Nicolas.
 ```
 
 ## The autoresponse - Not interested
@@ -34,12 +34,12 @@ It does however mean that I don't have the time to hop on a call with everyone w
 
 I very much appreciate the fact that you already disclosed the salary and other important details.
 
-But unfortunately I’m not interested in the position at the moment.
+But unfortunately, I’m not interested in the position at the moment.
 
 Thanks again for reaching out and let's keep in touch!
 
 Best,
-Albert.
+Nicolas.
 ```
 
 ## The autoresponse follow-up after details sent - Not interested 
@@ -51,5 +51,5 @@ But unfortunately I’m not interested in the position at the moment.
 Thanks again for reaching out and let's keep in touch!
 
 Best,
-Albert.
+Nicolas.
 ```
